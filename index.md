@@ -2,7 +2,7 @@
 ## Name 
 Mingxiu Liu
 ## Current affiliation 
-[Link to Google](http://physchem.cz/research/nanomaterials-modeling/)
+[Link to Google] (http://physchem.cz/research/nanomaterials-modeling/)
 ## Email 
 lium@natur.cuni.cz
 ## Address 

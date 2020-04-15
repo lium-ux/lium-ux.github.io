@@ -13,6 +13,6 @@ Hlavova 8, 128 43, Praha 2
 # research project 
 Zeolite Hydrolysis and catalysis
 # Publications 
-[Link to researchgate](https://www.researchgate.net/profile/Mingxiu_Liu)
+[Link to Mingxiu's researchgate](https://www.researchgate.net/profile/Mingxiu_Liu)
 
 
